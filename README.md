@@ -28,6 +28,10 @@ Have fun! It's just code. If something goes horrifically wrong, you can always c
 3. `npm start` will start your server.
 4. <kbd>Ctrl</kbd>+<kbd>c</kbd> to shut off the server.
 
+To play around with the setup you can open it in Gitpod (requires OAuth with GitHub).
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/aleph-naught2tog/ts_without_dependencies)
+
 ### Typescript
 
 Your Typescript files should go in the `src` folder. Everything else should be in the `public` folder -- HTML, images, CSS, etc.
